@@ -1,0 +1,6 @@
+[
+    { "text": "qual o clima em londres", "intent": "clima" },
+    { "text": "tô muito chateado", "intent": "negativo" },
+    { "text": "fala sobre galáxias", "intent": "curiosidade" },
+    { "text": "o que é inteligência artificial", "intent": "curiosidade" }
+  ]

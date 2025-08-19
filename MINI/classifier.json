@@ -1,0 +1,489 @@
+{
+    "classifier": {
+        "classFeatures": {
+            "saudacao": {
+                "0": 3,
+                "1": 2,
+                "2": 2,
+                "3": 2,
+                "4": 2,
+                "5": 2,
+                "57": 2
+            },
+            "despedida": {
+                "6": 4,
+                "7": 3,
+                "8": 3,
+                "9": 2,
+                "10": 2,
+                "39": 2
+            },
+            "status": {
+                "11": 2,
+                "12": 2,
+                "13": 2,
+                "14": 2,
+                "15": 2
+            },
+            "ajuda": {
+                "13": 2,
+                "16": 2,
+                "17": 3,
+                "18": 2,
+                "19": 2
+            },
+            "piada": {
+                "20": 3,
+                "21": 2,
+                "22": 3,
+                "23": 2
+            },
+            "positivo": {
+                "13": 2,
+                "24": 3,
+                "25": 2,
+                "26": 3,
+                "58": 2,
+                "59": 2
+            },
+            "negativo": {
+                "24": 3,
+                "27": 3,
+                "28": 3,
+                "29": 3,
+                "53": 3
+            },
+            "filosofia": {
+                "30": 3,
+                "31": 2,
+                "32": 3,
+                "33": 4,
+                "34": 3,
+                "35": 2,
+                "60": 2
+            },
+            "curiosidade": {
+                "34": 2,
+                "36": 2,
+                "37": 4,
+                "38": 2,
+                "39": 3,
+                "40": 2,
+                "41": 2,
+                "54": 2,
+                "55": 2,
+                "56": 2
+            },
+            "clima": {
+                "12": 2,
+                "30": 2,
+                "42": 4,
+                "43": 4,
+                "44": 2,
+                "45": 2,
+                "46": 2,
+                "52": 2
+            },
+            "desconhecido": {
+                "34": 2,
+                "47": 2,
+                "48": 2,
+                "49": 2,
+                "50": 2,
+                "51": 2
+            }
+        },
+        "classTotals": {
+            "saudacao": 7,
+            "despedida": 7,
+            "status": 3,
+            "ajuda": 3,
+            "piada": 3,
+            "positivo": 6,
+            "negativo": 7,
+            "filosofia": 5,
+            "curiosidade": 5,
+            "clima": 4,
+            "desconhecido": 3
+        },
+        "totalExamples": 43,
+        "smoothing": 1
+    },
+    "docs": [
+        {
+            "label": "saudacao",
+            "text": [
+                "old"
+            ]
+        },
+        {
+            "label": "saudacao",
+            "text": [
+                "boi"
+            ]
+        },
+        {
+            "label": "saudacao",
+            "text": [
+                "air",
+                "tudor"
+            ]
+        },
+        {
+            "label": "saudacao",
+            "text": [
+                "alo",
+                "tax"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "at",
+                "log"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "adam"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "famou",
+                "at",
+                "mai"
+            ]
+        },
+        {
+            "label": "status",
+            "text": [
+                "voic",
+                "est"
+            ]
+        },
+        {
+            "label": "status",
+            "text": [
+                "de",
+                "boat",
+                "tut"
+            ]
+        },
+        {
+            "label": "ajuda",
+            "text": [
+                "preci",
+                "de",
+                "jud"
+            ]
+        },
+        {
+            "label": "ajuda",
+            "text": [
+                "jud",
+                "com",
+                "iss"
+            ]
+        },
+        {
+            "label": "piada",
+            "text": [
+                "contr",
+                "ma",
+                "paid"
+            ]
+        },
+        {
+            "label": "piada",
+            "text": [
+                "contr",
+                "outr",
+                "paid"
+            ]
+        },
+        {
+            "label": "positivo",
+            "text": [
+                "stop",
+                "felix"
+            ]
+        },
+        {
+            "label": "positivo",
+            "text": [
+                "anim"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "stop",
+                "trit"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "prai",
+                "baiz"
+            ]
+        },
+        {
+            "label": "filosofia",
+            "text": [
+                "equal",
+                "sent",
+                "da",
+                "via"
+            ]
+        },
+        {
+            "label": "filosofia",
+            "text": [
+                "que",
+                "vital"
+            ]
+        },
+        {
+            "label": "curiosidade",
+            "text": [
+                "fac",
+                "sor",
+                "univ"
+            ]
+        },
+        {
+            "label": "curiosidade",
+            "text": [
+                "fall",
+                "sor",
+                "brac",
+                "negro"
+            ]
+        },
+        {
+            "label": "clima",
+            "text": [
+                "est",
+                "climax",
+                "em",
+                "paul"
+            ]
+        },
+        {
+            "label": "clima",
+            "text": [
+                "climax",
+                "em",
+                "rio",
+                "mash"
+            ]
+        },
+        {
+            "label": "desconhecido",
+            "text": [
+                "qualqu",
+                "cost",
+                "aleat"
+            ]
+        },
+        {
+            "label": "desconhecido",
+            "text": [
+                "no",
+                "que",
+                "dinn"
+            ]
+        },
+        {
+            "label": "clima",
+            "text": [
+                "equal",
+                "climax",
+                "em",
+                "lodg"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "chateau"
+            ]
+        },
+        {
+            "label": "curiosidade",
+            "text": [
+                "fall",
+                "sor",
+                "galax"
+            ]
+        },
+        {
+            "label": "curiosidade",
+            "text": [
+                "que",
+                "inteligenc",
+                "artifici"
+            ]
+        },
+        {
+            "label": "saudacao",
+            "text": [
+                "old"
+            ]
+        },
+        {
+            "label": "saudacao",
+            "text": [
+                "ai"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "at",
+                "log"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "adam"
+            ]
+        },
+        {
+            "label": "despedida",
+            "text": [
+                "fall"
+            ]
+        },
+        {
+            "label": "positivo",
+            "text": [
+                "anim"
+            ]
+        },
+        {
+            "label": "positivo",
+            "text": [
+                "stop",
+                "content"
+            ]
+        },
+        {
+            "label": "positivo",
+            "text": [
+                "de",
+                "boa"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "prai",
+                "baiz"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "stop",
+                "chateau"
+            ]
+        },
+        {
+            "label": "negativo",
+            "text": [
+                "trit"
+            ]
+        },
+        {
+            "label": "filosofia",
+            "text": [
+                "que",
+                "via"
+            ]
+        },
+        {
+            "label": "filosofia",
+            "text": [
+                "equal",
+                "proposit",
+                "da",
+                "via"
+            ]
+        }
+    ],
+    "features": {
+        "old": 2,
+        "boi": 1,
+        "air": 1,
+        "tudor": 1,
+        "alo": 1,
+        "tax": 1,
+        "at": 3,
+        "log": 2,
+        "adam": 2,
+        "famou": 1,
+        "mai": 1,
+        "voic": 1,
+        "est": 2,
+        "de": 3,
+        "boat": 1,
+        "tut": 1,
+        "preci": 1,
+        "jud": 2,
+        "com": 1,
+        "iss": 1,
+        "contr": 2,
+        "ma": 1,
+        "paid": 2,
+        "outr": 1,
+        "stop": 4,
+        "felix": 1,
+        "anim": 2,
+        "trit": 2,
+        "prai": 2,
+        "baiz": 2,
+        "equal": 3,
+        "sent": 1,
+        "da": 2,
+        "via": 3,
+        "que": 4,
+        "vital": 1,
+        "fac": 1,
+        "sor": 3,
+        "univ": 1,
+        "fall": 3,
+        "brac": 1,
+        "negro": 1,
+        "climax": 3,
+        "em": 3,
+        "paul": 1,
+        "rio": 1,
+        "mash": 1,
+        "qualqu": 1,
+        "cost": 1,
+        "aleat": 1,
+        "no": 1,
+        "dinn": 1,
+        "lodg": 1,
+        "chateau": 2,
+        "galax": 1,
+        "inteligenc": 1,
+        "artifici": 1,
+        "ai": 1,
+        "content": 1,
+        "boa": 1,
+        "proposit": 1
+    },
+    "stemmer": {},
+    "lastAdded": 42,
+    "events": {
+        "_events": {},
+        "_eventsCount": 0
+    }
+}

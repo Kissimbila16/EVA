@@ -1,0 +1,7 @@
+{"ajuda":2,"clima":3,"curiosidade":4,"desconhecido":2,"despedida":7,"filosofia":4,"level":"info","message":"Distribuição de intenções:","negativo":6,"piada":2,"positivo":5,"saudacao":8,"status":2,"timestamp":"2025-08-19T18:56:29.966Z"}
+{"level":"info","message":"Acurácia média (k-fold): 55.55555555555556%","timestamp":"2025-08-19T18:56:59.310Z"}
+{"level":"info","message":"Acurácia: 44.44444444444444%","timestamp":"2025-08-19T18:57:10.950Z"}
+{"level":"info","message":"Classificador salvo.","timestamp":"2025-08-19T18:57:10.956Z"}
+{"level":"info","message":"Pipeline de treinamento concluído para pt. Acurácia média: 55.55555555555556%","timestamp":"2025-08-19T18:57:10.957Z"}
+{"level":"info","message":"Classifier initialized for pt","timestamp":"2025-08-19T18:57:10.958Z"}
+{"level":"info","message":"Servidor rodando na porta 3000","timestamp":"2025-08-19T18:57:10.964Z"}

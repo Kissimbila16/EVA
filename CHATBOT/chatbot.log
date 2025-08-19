@@ -1,0 +1,2 @@
+{"level":"error","message":"Error preprocessing text: text.toLowerCase is not a function","timestamp":"2025-08-19T18:17:09.174Z"}
+{"level":"error","message":"Error generating reply: text.toLowerCase is not a function","timestamp":"2025-08-19T18:17:09.178Z"}
